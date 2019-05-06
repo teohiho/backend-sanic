@@ -35,5 +35,9 @@ Workspaces/today/services
 ```
 2. Run the BE
 ```
+PYTHONPATH=./src python -m intern
+```
+or
+```
 modd
 ```
